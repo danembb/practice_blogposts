@@ -1,0 +1,324 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/heartbeat/coding/take_homes/practice_blogposts/config/environment.rb": {
+        "lines": [
+          null,
+          1,
+          null,
+          null,
+          1
+        ]
+      },
+      "/Users/heartbeat/coding/take_homes/practice_blogposts/config/application.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/heartbeat/coding/take_homes/practice_blogposts/config/boot.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1
+        ]
+      },
+      "/Users/heartbeat/coding/take_homes/practice_blogposts/config/environments/test.rb": {
+        "lines": [
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          null,
+          null,
+          1,
+          null,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          1,
+          null,
+          null,
+          1,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/heartbeat/coding/take_homes/practice_blogposts/config/initializers/application_controller_renderer.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/heartbeat/coding/take_homes/practice_blogposts/config/initializers/backtrace_silencers.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1
+        ]
+      },
+      "/Users/heartbeat/coding/take_homes/practice_blogposts/config/initializers/cors.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/heartbeat/coding/take_homes/practice_blogposts/config/initializers/filter_parameter_logging.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/heartbeat/coding/take_homes/practice_blogposts/config/initializers/inflections.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/heartbeat/coding/take_homes/practice_blogposts/config/initializers/mime_types.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/heartbeat/coding/take_homes/practice_blogposts/config/initializers/wrap_parameters.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/heartbeat/coding/take_homes/practice_blogposts/spec/factories/comments.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/heartbeat/coding/take_homes/practice_blogposts/spec/factories/posts.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/heartbeat/coding/take_homes/practice_blogposts/spec/factories/users.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/heartbeat/coding/take_homes/practice_blogposts/config/routes.rb": {
+        "lines": [
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/heartbeat/coding/take_homes/practice_blogposts/app/models/comment.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/heartbeat/coding/take_homes/practice_blogposts/app/models/application_record.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/heartbeat/coding/take_homes/practice_blogposts/spec/models/post_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          2,
+          null,
+          null
+        ]
+      },
+      "/Users/heartbeat/coding/take_homes/practice_blogposts/app/models/post.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/heartbeat/coding/take_homes/practice_blogposts/spec/models/user_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          null,
+          null
+        ]
+      },
+      "/Users/heartbeat/coding/take_homes/practice_blogposts/app/models/user.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      }
+    },
+    "timestamp": 1648589593
+  }
+}
